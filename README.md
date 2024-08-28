@@ -5,8 +5,8 @@ Les collections en java sont des structures de données qui permettent de stocke
 ### Introduction aux Collections
 
 - Une collection (parfois appelée conteneur) est simplement un objet qui regroupe plusieurs éléments en une seule unité.
-- Les collections sont utilisées pour srtocker, récuprérer, manipuler et communiquer des données agrégées.
-- le Framework des Collection Java fournit des interfaces, des implémentations et des algorithmes pour travailler avec des Collections.
+- Les collections sont utilisées pour stocker, récuprérer, manipuler et communiquer des données agrégées.
+- le Framework des Collections Java fournit des interfaces, des implémentations et des algorithmes pour travailler avec des Collections.
 
 ### Structure des dossiers
 
@@ -39,9 +39,9 @@ tableauEntiers[0] = 10; // Affecte la valeur 10 à la première case
 // ... Ajoutez d'autres éléments au tableau
 ```
 
-## Utilisation des Lits
+## Utilisation des Lists
 
-Les `Lists` sont des collections ordonnées qui permettent d'acc&éder aux éléments par leur index. Voici comment utiliser une `ArrayList` :
+Les `List` sont des collections ordonnées qui permettent d'accéder aux éléments par leur index. Voici comment utiliser une `ArrayList` :
 
 ```java
 import java.util.ArrayList;
@@ -81,7 +81,7 @@ public class Main {
 
  ## Utilisation des Maps
 
- Les `Maps` associent des clés à des valeurs. Voici comment utiliser une `HashMap` :
+ Les `Map` associent des clés à des valeurs. Voici comment utiliser une `HashMap` :
 
  ```java
  import java.util.HashMap;
